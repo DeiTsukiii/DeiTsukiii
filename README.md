@@ -1,5 +1,6 @@
-## Compétences
-
-- **Langages de programmation** : 
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-  ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow) 
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26)
+![Phaser](https://img.shields.io/badge/Framework-Phaser-ff0044)
+![Node.js](https://img.shields.io/badge/Tool-Node.js-339933)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC)
