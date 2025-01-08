@@ -1,5 +1,5 @@
 # Hi 👋, I'm DeiTsuki  
-### Just a lil' dev who enjoys creating games.
+### A lil' dev who enjoys creating games.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deitsukiii&label=Profile%20views&color=0e75b6&style=flat)  
 
