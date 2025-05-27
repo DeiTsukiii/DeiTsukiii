@@ -17,6 +17,7 @@
 
 ### Frameworks, Libraries, and Tools  
 ![Phaser](https://img.shields.io/badge/Framework-Phaser-7289DA)  
+![ESX](https://img.shields.io/badge/Framework-ESX-yellow)  
 ![Discord.js](https://img.shields.io/badge/Library-Discord.js-5865F2)  
 ![Node.js](https://img.shields.io/badge/Tool-Node.js-43853D)  
 ![Pygame](https://img.shields.io/badge/Library-Pygame-3776AB)  
