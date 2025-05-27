@@ -10,9 +10,9 @@
 ## 🛠️ Languages and Tools:  
 
 ### Programming Languages  
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)  
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-f1e05a)  
 ![Python](https://img.shields.io/badge/Language-Python-blue)  
-![Lua](https://img.shields.io/badge/Language-Lua-lightblue)
+![Lua](https://img.shields.io/badge/Language-Lua-000080)
 <!-- ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26)   -->
 
 ### Frameworks, Libraries, and Tools  
