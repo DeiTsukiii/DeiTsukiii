@@ -12,6 +12,7 @@
 ### Programming Languages  
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)  
 ![Python](https://img.shields.io/badge/Language-Python-blue)  
+![Lua](https://img.shields.io/badge/Language-Lua-blue)
 <!-- ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26)   -->
 
 ### Frameworks, Libraries, and Tools  
