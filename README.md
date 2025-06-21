@@ -1,6 +1,3 @@
-# Hi 👋, I'm DeiTsuki  
-### A lil' dev who never finishes these projects.
-
 <div class="container" style="
         color: #fff;
         background-color: #0E0E0E;
@@ -62,10 +59,3 @@
 [![Website](https://img.shields.io/badge/Website-deitsuki.netlify.app-195EFF?style=flat-square&logo=google-chrome&logoColor=f5f5f5)](https://deitsuki.netlify.app) 
 
 ---
-
-
-<!-- ---
-
-## 💖 Support
-
-If you like my work, feel free to support me! 😊   -->
