@@ -1,22 +1,5 @@
-<div class="container" style="
-        color: #fff;
-        background-color: #0E0E0E;
-        font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
-        font-optical-sizing: auto;
-        font-style: normal;
-        padding: 20px">
-    <div class="header" style="text-align: center;">
-        <div class="brand" style="padding-bottom: 20px;">
-            <h1><span>&lt;</span>DeiTsuki<span>&#47;&gt;</span></h1>
-        </div>
-        <div class="subtitle">
-            A lil' dev who never<br>finishes these projects.
-        </div>
-        <ul class="social-links" id="social-links"></ul>
-    </div>
-</div>
-
----
+# Hi 👋, I'm DeiTsuki  
+### A lil' dev who never finishes these projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deitsukiii&label=Profile%20views&color=0e75b6&style=flat)  
 
@@ -27,7 +10,7 @@
 ## 🛠️ Languages and Tools:  
 
 ### Programming Languages  
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-f1e05a)  
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-f1e05a)
 ![Python](https://img.shields.io/badge/Language-Python-3572A5)  
 ![Lua](https://img.shields.io/badge/Language-Lua-000080)
 <!-- ![HTML5](https://img.shields.io/badge/Language-HTML5-E34F26)   -->
@@ -57,5 +40,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-deitsukii__-DD2A7B?style=flat-square&logo=instagram&logoColor=f5f5f5)](https://www.instagram.com/deitsukii_)  
 ![Discord](https://img.shields.io/badge/Discord-deitsuki__-5865F2?style=flat-square&logo=discord&logoColor=f5f5f5)  
 [![Website](https://img.shields.io/badge/Website-deitsuki.netlify.app-195EFF?style=flat-square&logo=google-chrome&logoColor=f5f5f5)](https://deitsuki.netlify.app) 
-
----
