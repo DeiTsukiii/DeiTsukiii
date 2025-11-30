@@ -1,5 +1,5 @@
 # Hi 👋, I'm DeiTsuki  
-### A lil' dev who never finishes these projects.
+### A lil' dev who never finishes his projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deitsukiii&label=Profile%20views&color=0e75b6&style=flat)  
 
